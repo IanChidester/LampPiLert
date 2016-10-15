@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kim/LampPiLert/app/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0cdbb2c18bc44b895dc6b8ffd2f963ab3ca3e5a3">
+        <dex dex="/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_886b6e7206c136c1e04f37fac3595c6f2d0fd789/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kim/LampPiLert/app/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="316e5a4f295f37e327193f435a4f59a9d277d12d">
+        <dex dex="/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_608751f4992562b6c41d95bd05baca5756415ec7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kim/LampPiLert/app/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f331589c9f7d416b1e928903d67b18f1bd5775f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kim/LampPiLert/app/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_25a0b3866cbe59aeecd4de9d42e669a3128bcec7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kim/LampPiLert/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_23f1dea94decc0b6a36e5544762e1f4ab2917c3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kim/LampPiLert/app/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_81ccd613c15e50159ee75ecc0ae2aeb544ccbfc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kim/LampPiLert/app/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_2239359373bb3ef02cd9a1552517c1853e31a60d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kim/LampPiLert/app/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_4c87b9dee911e0d680c2af7c004006ed29c3decd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kim/LampPiLert/app/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_c317bb139e66036c1ec19c34eb89a439e25249ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kim/LampPiLert/app/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_0a61d425f6b950a97bb52bba3a60acc608655f63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kim/LampPiLert/app/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_5b8f43e9b3d5b9b698ee976c310ea5b06faf8a49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kim/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_7dba0eec8c274c1f0d6566e74990804a9a6d61b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kim/LampPiLert/app/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_1ca3b60d2532e276f09e6d520ec62228b90676ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kim/LampPiLert/app/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_1695f3db00f737b127d777490e677180043d0dff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kim/LampPiLert/app/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2c9fa646ffa22c3984191a668ac88fea28f8c2ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kim/LampPiLert/app/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_65d270b19ba4972c74919465c127c433775bde15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kim/LampPiLert/app/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1908e6e26a0286cc79e5a4a1424b99c7f7572342/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kim/LampPiLert/app/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_dcf3ecb1ccc3333a9dea9e60f2ad43e6350fc0cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kim/LampPiLert/app/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_86beae96c4b939700a7571a29c5b383cbfb6feea/classes.dex" />
+    </item>
+
+</items>

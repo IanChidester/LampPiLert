@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kim/LampPiLert/app/app/build/intermediates/res/merged/debug/mipmap-hdpi/lampilert_logo.png",
+        "source": "/Users/kim/LampPiLert/app/app/src/main/res/mipmap-hdpi/lampilert_logo.png"
+    },
+    {
+        "merged": "/Users/kim/LampPiLert/app/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/kim/LampPiLert/app/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

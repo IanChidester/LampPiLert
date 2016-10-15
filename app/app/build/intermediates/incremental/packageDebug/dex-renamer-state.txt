@@ -1,0 +1,7 @@
+#Sat Oct 15 09:21:02 PDT 2016
+base.0=/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_886b6e7206c136c1e04f37fac3595c6f2d0fd789
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_608751f4992562b6c41d95bd05baca5756415ec7/classes.dex
+base.1=/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_608751f4992562b6c41d95bd05baca5756415ec7
+file.0=/Users/kim/LampPiLert/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_886b6e7206c136c1e04f37fac3595c6f2d0fd789/classes.dex
